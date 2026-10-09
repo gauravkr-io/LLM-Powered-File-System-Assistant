@@ -1,0 +1,11 @@
+Resume Summary for John Doe
+
+Name: John Doe
+Title: Backend Developer
+Contact: john.doe@example.com | Pune, India
+Experience: 4 years of Python backend development
+Key Skills: Python, Flask, FastAPI, PostgreSQL, Docker, AWS, Git
+Professional Experience:
+- Software Engineer at Brightline Systems (2022-Present): Developed FastAPI services handling 2 million requests per day; improved report generation speed by 40% via SQL optimization; implemented unit testing with pytest and CI/CD using GitHub Actions.
+- Junior Developer at CodeNest (2020-2022): Maintained Flask applications, resolved production bugs, automated daily data imports with Python scripts.
+Education: B.Tech in Computer Science, Pune University, 2020

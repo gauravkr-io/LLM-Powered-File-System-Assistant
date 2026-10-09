@@ -1,0 +1,21 @@
+Amit Verma
+Frontend Developer | amit.verma@example.com | Jaipur, India
+
+SUMMARY
+Frontend developer with 5 years of experience creating fast and accessible web apps.
+
+SKILLS
+JavaScript, TypeScript, React, Next.js, HTML, CSS, Jest
+
+EXPERIENCE
+Senior Frontend Developer, PixelCraft (2021 - Present)
+- Led the migration of a legacy jQuery app to React
+- Improved page load speed by 55 percent with code splitting
+- Mentored two junior developers
+
+Frontend Developer, WebWorks (2019 - 2021)
+- Built reusable component libraries
+- Wrote end to end tests
+
+EDUCATION
+BCA, Rajasthan University, 2019

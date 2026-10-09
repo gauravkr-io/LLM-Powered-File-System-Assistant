@@ -1,0 +1,21 @@
+Neha Gupta
+Java Developer | neha.gupta@example.com | Chennai, India
+
+SUMMARY
+Java developer with 7 years of experience in enterprise banking applications.
+
+SKILLS
+Java, Spring Boot, Hibernate, MySQL, Kafka, JUnit
+
+EXPERIENCE
+Senior Java Developer, FinServe (2019 - Present)
+- Designed payment microservices using Spring Boot and Kafka
+- Led a team of four developers
+- Improved test coverage from 45 to 85 percent
+
+Java Developer, BankTech (2016 - 2019)
+- Developed back office reporting tools
+- Fixed performance issues in Hibernate queries
+
+EDUCATION
+B.E. in Computer Science, Anna University, 2016

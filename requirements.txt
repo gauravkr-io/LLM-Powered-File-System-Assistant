@@ -1,0 +1,6 @@
+openai>=1.50.0
+pydantic>=2.5.0
+pypdf>=4.0.0
+python-docx>=1.1.0
+# only needed to regenerate the sample PDFs with make_sample_data.py
+reportlab>=4.0.0
